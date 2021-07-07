@@ -6,7 +6,7 @@
 
 <p>
 
-Trabalho para um **hoje melhor**<br/>
+Sou Desenvolvedor Web e trabalho para um **amanhã melhor**<br/>
 
 Sou estudante de **Python**, gosto bastante de Desenvolvimento Web, quero me especializar cada vez mais pra ser FullStack. Eu quero fazer coisas impressionantes com um time sensacional, além do mais!
 </p>
