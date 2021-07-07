@@ -1,6 +1,6 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=ballanceado&theme=synthwave&show_icons=true'>
 
-### Salve Dev! Tudo certo?
+### Salve Dev! Beba água ein!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ballanceado&color=f8efd4&style=for-the-badge&logo=GitHub">
 
